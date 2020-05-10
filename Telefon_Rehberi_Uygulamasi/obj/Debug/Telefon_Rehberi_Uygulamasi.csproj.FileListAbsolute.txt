@@ -1,0 +1,30 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\bin\Debug\Telefon_Rehberi_Uygulamasi.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\bin\Debug\Telefon_Rehberi_Uygulamasi.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\bin\Debug\Telefon_Rehberi_Uygulamasi.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\obj\Debug\Telefon_Rehberi_Uygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\obj\Debug\Telefon_Rehberi_Uygulamasi.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\obj\Debug\Telefon_Rehberi_Uygulamasi.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\obj\Debug\Telefon_Rehberi_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\obj\Debug\Telefon_Rehberi_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\obj\Debug\Telefon_Rehberi_Uygulamasi.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\obj\Debug\Telefon_Rehberi_Uygulamasi.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\bin\Debug\EntityFramework.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\bin\Debug\EntityFramework.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\obj\Debug\Telefon_Rehberi_Uygulamasi.csproj.CopyComplete
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\bin\Debug\Telefon_Rehberi_Uygulamasi.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\bin\Debug\Telefon_Rehberi_Uygulamasi.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\bin\Debug\Telefon_Rehberi_Uygulamasi.pdb
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\bin\Debug\EntityFramework.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\bin\Debug\EntityFramework.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\obj\Debug\Telefon_Rehberi_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\obj\Debug\Telefon_Rehberi_Uygulamasi.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\obj\Debug\Telefon_Rehberi_Uygulamasi.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\obj\Debug\Telefon_Rehberi_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\obj\Debug\Telefon_Rehberi_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\obj\Debug\Telefon_Rehberi_Uygulamasi.csproj.CopyComplete
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\obj\Debug\Telefon_Rehberi_Uygulamasi.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Form Applications\Telefon_Rehberi_Uygulamasi\Telefon_Rehberi_Uygulamasi\obj\Debug\Telefon_Rehberi_Uygulamasi.pdb
